@@ -1,0 +1,4 @@
+# CenterStage
+## Dependencies
+- OpenCV
+- pyvirtualcam
